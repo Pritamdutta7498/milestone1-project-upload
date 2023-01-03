@@ -11,8 +11,8 @@
 {margin:10px(top)20px(right,left)30px(bottom)}
 {margin:all in single select}
  margin padding is same ]
-=>
-=>
+=>git cd..(1 lavel opore jabe)
+=>git cd project(likhe tab marle onek folder e duka jaai)
 =>
 =>
 =>
