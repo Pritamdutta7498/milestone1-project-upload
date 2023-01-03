@@ -1,0 +1,20 @@
+=>text decoration
+=>inline css
+=>display:block/none all property
+=>background images cover and contain
+=>background position property
+=>difference between ID and Classes
+=>box model
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+
+
+
+

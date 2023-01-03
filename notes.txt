@@ -1,0 +1,40 @@
+=>background-size: contain;(For full of the background images use)
+=>background-blend-mode: multiply;(For mix a background color with background images)
+=>text-decoration: overline wavy rgb(255, 24, 8);
+=>inline display - we can't use margin top/bottom( because inline display can't take a height in a new line )- if we have to then we must be use display: block;
+=>inline display uses for make a line of some rows data
+=>* is a universal selector
+=>css attribute selector( <input type="text";>)
+=>[
+{margin:20px(all)}
+{margin:10px(top,bottom) 20px(right,left)}
+{margin:10px(top)20px(right,left)30px(bottom)}
+{margin:all in single select}
+ margin padding is same ]
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
