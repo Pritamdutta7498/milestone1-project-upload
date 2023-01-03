@@ -1,21 +1,35 @@
-=>background-size: contain;(For full of the background images use)
-=>background-blend-mode: multiply;(For mix a background color with background images)
-=>text-decoration: overline wavy rgb(255, 24, 8);
-=>inline display - we can't use margin top/bottom( because inline display can't take a height in a new line )- if we have to then we must be use display: block;
-=>inline display uses for make a line of some rows data
-=>* is a universal selector
-=>css attribute selector( <input type="text";>)
-=>[
+=>  background-size: contain;(For full of the background images use)
+=>  background-blend-mode: multiply;(For mix a background color with background images)
+=>  text-decoration: overline wavy rgb(255, 24, 8);
+=>  inline display - we can't use margin top/bottom( because inline display can't take a height in a new line )- if we have to then we must be use display: block;
+=>  inline display uses for make a line of some rows data
+=>  * is a universal selector
+=>  css attribute selector( <input type="text";>)
+=>  [
 {margin:20px(all)}
 {margin:10px(top,bottom) 20px(right,left)}
 {margin:10px(top)20px(right,left)30px(bottom)}
 {margin:all in single select}
- margin padding is same ]
-=>git cd..(1 lavel opore jabe)
-=>git cd project(likhe tab marle onek folder e duka jaai)
-=>
-=>
-=>
+ margin padding is same ] 
+ => git --version(press kore jodi version ta show kore tahhole sob tik ace)
+=>  vs terminal changes
+git cd..(1 folder opore jabe/ ber hobe )
+=>  git cd project(likhe tab marle onek folder e duka jaai/je folder e dukte cai se folder er num diye enter dile se folder a duke jai{ num lhike tab press korle subida})
+=>  git add . (sob file add kora jai)
+=>  new repository from github
+(echo "# repo name" >> README.md) this is optional...
+(git init)
+(git add .)
+(git commit -m "write anything you want")
+(git branch -M main)
+(git remote add origin https://github.com/Pritamdutta7498/filename.git)
+(git push -u origin main) then check the github profile
+
+=>  If you want to push the changes in github following the rule:
+(git add .)
+(git commit --m"message")
+(git push) then check the github profile
+
 =>
 =>
 =>
